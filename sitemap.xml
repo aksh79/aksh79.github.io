@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://aksh79.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://aksh79.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://aksh79.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://aksh79.github.io/projects/dotfiles/</loc>
+    </url>
+    <url>
+        <loc>https://aksh79.github.io/projects/kerberust/</loc>
+    </url>
+    <url>
+        <loc>https://aksh79.github.io/projects/krb5rs/</loc>
+    </url>
+    <url>
+        <loc>https://aksh79.github.io/projects/ncrss/</loc>
+    </url>
+    <url>
+        <loc>https://aksh79.github.io/projects/procdump-rs/</loc>
+    </url>
+    <url>
+        <loc>https://aksh79.github.io/tags/</loc>
+    </url>
+</urlset>
